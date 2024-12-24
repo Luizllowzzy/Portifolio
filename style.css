@@ -11,14 +11,23 @@ body {
 
 header {
     color: #ffffff;
+    height: 10vh;
 }
 
 .container {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
     width: 100%;
+}
+
+.container2 {
+    height: 90vh;
+}
+
+footer {
+    height: 10vh;
 }
 
 span {
