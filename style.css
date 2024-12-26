@@ -12,6 +12,10 @@ body {
 header {
     color: #ffffff;
     height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: fantasy, sans serif;
 }
 
 .container {
@@ -32,7 +36,7 @@ footer {
 
 span {
     color: #ffffff;
-    font-size: 16px;
+    font-size: 32px;
 }
 
 h1 {
