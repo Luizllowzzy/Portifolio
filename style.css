@@ -43,3 +43,10 @@ h1 {
     color: #ffffff;
     font-size: 80px;
 }
+
+.perfil {
+    width: 128px;
+    height: 128px;
+    border-radius: 100%;
+    position: absolute;
+}
